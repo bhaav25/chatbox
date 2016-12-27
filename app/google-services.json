@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "536327604008",
+    "firebase_url": "https://chatbox-fee89.firebaseio.com",
+    "project_id": "chatbox-fee89",
+    "storage_bucket": "chatbox-fee89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536327604008:android:a652c21c935d5aca",
+        "android_client_info": {
+          "package_name": "com.bhavin.chatbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536327604008-4grjte4tomvv8pjjge0o96e94nmski2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bhavin.chatbox",
+            "certificate_hash": "CB0F9270CEAFBE3F3202FA5D8800EACEF6313FFC"
+          }
+        },
+        {
+          "client_id": "536327604008-gu6k2i1auht7460ksek7dd8i7810j2t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAeNX5QhMB-yvXWjgD1FAdQKFLdMnd8n4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536327604008-gu6k2i1auht7460ksek7dd8i7810j2t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

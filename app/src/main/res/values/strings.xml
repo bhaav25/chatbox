@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chatbox</string>
+    <string name="facebook_app_id">1809113336026526</string>
+    <string name="fb_login_protocol_scheme">fb1809113336026526</string>
+    <string name="sign_out_text">Sign Out</string>
+    <string name="friends_text">Facebook friends</string>
+</resources>
